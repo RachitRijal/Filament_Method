@@ -4,8 +4,8 @@ import numpy as np
 import pandas as pd
 from scipy.special import ellipk, ellipe
 from matplotlib import pyplot as plt
-from scipy.optimize import curve_fit
-import csv
+
+
 
 from plot_results import plot_force, dynamic_func, calculate_r2_rmse
 
